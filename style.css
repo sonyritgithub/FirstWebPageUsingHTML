@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    border:2px;
+    padding:10px;
+}
+pre{
+    background-color:gold;
+    border:20px solid skyblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:10px;
+}
